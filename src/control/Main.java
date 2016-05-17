@@ -1,5 +1,6 @@
 package control;
 
+import common.Settings;
 import javax.swing.UIManager;
 import javax.swing.SwingUtilities;
 import control.view.MainFrame;

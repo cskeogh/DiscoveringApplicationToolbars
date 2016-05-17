@@ -1,6 +1,6 @@
 package control.view;
 
-import control.Settings;
+import common.Settings;
 import control.presenter.MainPresenter;
 import java.awt.*;
 import java.awt.event.InputEvent;

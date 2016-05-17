@@ -1,6 +1,6 @@
 package control.presenter;
 
-import control.Settings;
+import common.Settings;
 import control.model.Boundary;
 import control.model.DataListener;
 import control.model.Element;

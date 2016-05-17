@@ -1,4 +1,4 @@
-package control;
+package common;
 
 /**
  * Created by Oxyde on 9/05/2016.
