@@ -1,4 +1,4 @@
-package control.model;
+package common.model;
 
 import java.awt.*;
 

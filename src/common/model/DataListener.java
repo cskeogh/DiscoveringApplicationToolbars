@@ -1,4 +1,4 @@
-package control.model;
+package common.model;
 
 /**
  * Created by Oxyde on 12/05/2016.

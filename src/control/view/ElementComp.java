@@ -1,6 +1,6 @@
 package control.view;
 
-import control.model.ModelObj;
+import common.model.ModelObj;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;

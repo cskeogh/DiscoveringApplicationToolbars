@@ -1,6 +1,6 @@
 package control.view;
 
-import control.model.ModelObj;
+import common.model.ModelObj;
 
 /**
  * Created by Oxyde on 15/05/2016.

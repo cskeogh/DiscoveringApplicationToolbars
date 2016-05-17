@@ -1,11 +1,11 @@
 package control.presenter;
 
 import common.Settings;
-import control.model.Boundary;
-import control.model.DataListener;
-import control.model.Element;
-import control.model.ModelObj;
-import control.model.Note;
+import common.model.Boundary;
+import common.model.DataListener;
+import common.model.Element;
+import common.model.ModelObj;
+import common.model.Note;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
