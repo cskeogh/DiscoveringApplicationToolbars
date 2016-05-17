@@ -1,14 +1,17 @@
 package exp;
 
+import common.Settings;
 import javax.swing.UIManager;
 import javax.swing.SwingUtilities;
+import exp.view.MainFrame;
+import control.presenter.MainPresenter;
 
 /**
  * Created by Oxyde on 9/05/2016.
  */
 public class Main {
 
-    private Main()
+    public Main()
     {
         SwingUtilities.invokeLater(new Runnable()
         {
@@ -23,9 +26,9 @@ public class Main {
                     // do not care if can't set look and feel, continue.
                 }
                 //ImageFactory.loadIcons();
-                /*
-                MainFrame mainFrame = new MainFrame(Settings.ApplicationName);
-                mainFrame.setVisible(true);*/
+                MainFrame mainFrame = new MainFrame(new MainPresenter(),
+                        Settings.ApplicationName);
+                mainFrame.setVisible(true);
             }
         });
 
