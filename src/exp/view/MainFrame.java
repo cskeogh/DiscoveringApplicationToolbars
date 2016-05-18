@@ -556,6 +556,12 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
             toolTipPane.setTipText((String)evt.getNewValue());
             toolTipPane.setVisible((String)evt.getNewValue() != null);
         }
+        else if (evt.getPropertyName().equals("error")) {
+            JOptionPane.showMessageDialog(this,
+                    (String)evt.getNewValue(),
+                    Settings.ApplicationName + " Error",
+                    JOptionPane.ERROR_MESSAGE);
+        }
     }
 
     private ToolTipPane toolTipPane;

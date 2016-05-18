@@ -11,6 +11,8 @@ import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import javax.swing.*;
 
+import static common.Settings.ApplicationName;
+
 /**
  * Created by Oxyde on 9/05/2016.
  */
@@ -520,7 +522,7 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
         if (evt.getPropertyName().equals("state")) {
-            setTitle(Settings.ApplicationName);
+            setTitle(ApplicationName);
             switch ((Integer) evt.getNewValue()) {
                 case MainPresenter.ST_NOTHING:
                     getGlassPane().setVisible(false);
@@ -544,9 +546,15 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
                     presenter.cancel();
                     break;
                 case MainPresenter.ST_PAUSE:
-                    setTitle(Settings.ApplicationName + " - PAUSED");
+                    setTitle(ApplicationName + " - PAUSED");
                     break;
             }
+        }
+        else if (evt.getPropertyName().equals("error")) {
+            JOptionPane.showMessageDialog(this,
+                    (String)evt.getNewValue(),
+                    ApplicationName + " Error",
+                    JOptionPane.ERROR_MESSAGE);
         }
     }
 

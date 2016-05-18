@@ -25,8 +25,8 @@ public class Main {
                 {
                     // do not care if can't set look and feel, continue.
                 }
-                //ImageFactory.loadIcons();
-                MainFrame mainFrame = new MainFrame(new MainPresenter(),
+                MainFrame mainFrame = new MainFrame(
+                        new MainPresenter(Settings.ResearchOptions.Control),
                         Settings.ApplicationName);
                 mainFrame.setVisible(true);
             }

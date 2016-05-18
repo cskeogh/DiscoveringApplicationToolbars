@@ -34,8 +34,9 @@ import javax.swing.filechooser.FileSystemView;
  */
 public class MainPresenter {
 
-    public MainPresenter()
+    public MainPresenter(Settings.ResearchOptions researchOption)
     {
+        this.researchOption = researchOption;
         propertyListeners = new PropertyChangeSupport(this);
         dataListeners = new LinkedList<DataListener>();
         theModel = new LinkedList<ModelObj>();
@@ -225,10 +226,11 @@ public class MainPresenter {
                 @Override
                 public void actionPerformed(ActionEvent e)
                 {
+                    SimpleDateFormat formatter = new SimpleDateFormat("yyyyMMddHHmm");
+                    File path = new File(FileSystemView.getFileSystemView().getDefaultDirectory(),
+                            Settings.LogFilenamePrefix + researchOption.getValue()
+                                    + formatter.format(new Date()) + ".txt");
                     try {
-                        SimpleDateFormat formatter = new SimpleDateFormat("yyyyMMddHHmm");
-                        File path = new File(FileSystemView.getFileSystemView().getDefaultDirectory(),
-                                Settings.LogFilenamePrefix + formatter.format(new Date()) + ".txt");
                         if (!path.exists()) {
                             path.createNewFile();
                         }
@@ -239,7 +241,8 @@ public class MainPresenter {
                     }
                     catch (IOException ex)
                     {
-                        // error state
+                        setError("Error creating file " + path.getPath() +
+                                "\n" + ex.getMessage());
                     }
                 }
             };
@@ -394,6 +397,13 @@ public class MainPresenter {
         propertyListeners.firePropertyChange("toolTipHelp", old, help);
     }
 
+    public void setError(String error)
+    {
+        String old = this.error;
+        this.error = error;
+        propertyListeners.firePropertyChange("error", old, error);
+    }
+
     private void next(int newState)
     {
         int oldState = state;
@@ -431,7 +441,9 @@ public class MainPresenter {
             if (log != null) {
                 log.write(dateFormat.format(new Date()) + ", " + msg + "\n");
             }
-        } catch (IOException e) {}
+        } catch (IOException ex) {
+            setError(ex.getMessage());
+        }
     }
 
     public void addPropertyChangeListener(PropertyChangeListener listener)
@@ -470,11 +482,13 @@ public class MainPresenter {
         }
     }
 
+    private Settings.ResearchOptions researchOption;
     private List<ModelObj> theModel;
     private List<DataListener> dataListeners;
     private PropertyChangeSupport propertyListeners;
     private int state;
     private String toolTipHelp;
+    private String error;
     private ActionListener alignLeftAction;
     private ActionListener alignRightAction;
     private ActionListener alignTopAction;
