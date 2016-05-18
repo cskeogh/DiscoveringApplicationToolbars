@@ -1,6 +1,6 @@
 package control.view;
 
-import control.presenter.MainPresenter;
+import common.presenter.MainPresenter;
 import java.awt.*;
 import java.awt.event.ComponentEvent;
 import java.awt.event.ComponentListener;

@@ -1,7 +1,7 @@
 package exp.view;
 
 import common.Settings;
-import control.presenter.MainPresenter;
+import common.presenter.MainPresenter;
 import java.awt.*;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;

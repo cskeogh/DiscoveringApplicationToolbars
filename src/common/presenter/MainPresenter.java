@@ -1,4 +1,4 @@
-package control.presenter;
+package common.presenter;
 
 import common.Settings;
 import common.model.Boundary;

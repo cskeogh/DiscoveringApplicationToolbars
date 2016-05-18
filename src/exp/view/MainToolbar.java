@@ -1,6 +1,6 @@
 package exp.view;
 
-import control.presenter.MainPresenter;
+import common.presenter.MainPresenter;
 import javax.swing.*;
 
 /**

@@ -4,7 +4,7 @@ import common.Settings;
 import javax.swing.UIManager;
 import javax.swing.SwingUtilities;
 import exp.view.MainFrame;
-import control.presenter.MainPresenter;
+import common.presenter.MainPresenter;
 
 /**
  * Created by Oxyde on 9/05/2016.
