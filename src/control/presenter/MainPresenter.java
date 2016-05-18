@@ -322,6 +322,27 @@ public class MainPresenter {
         return panelMouse;
     }
 
+    public MouseAdapter getToolbarMouse()
+    {
+        if (toolbarMouse == null) {
+            toolbarMouse = new MouseAdapter() {
+                @Override
+                public void mouseEntered(MouseEvent e) {
+                    String tip = ((JComponent)e.getSource()).getToolTipText();
+                    setToolTipHelp(tip);
+                    log("show " + tip);
+                }
+
+                @Override
+                public void mouseExited(MouseEvent e) {
+                    log("hide " + getToolTipHelp());
+                    setToolTipHelp(null);
+                }
+            };
+        }
+        return toolbarMouse;
+    }
+
     public WindowListener getMainWindowAction()
     {
         if (mainWindowAction == null)
@@ -359,6 +380,18 @@ public class MainPresenter {
             };
         }
         return menuAction;
+    }
+
+    public String getToolTipHelp()
+    {
+        return toolTipHelp;
+    }
+
+    public void setToolTipHelp(String help)
+    {
+        String old = toolTipHelp;
+        toolTipHelp = help;
+        propertyListeners.firePropertyChange("toolTipHelp", old, help);
     }
 
     private void next(int newState)
@@ -441,6 +474,7 @@ public class MainPresenter {
     private List<DataListener> dataListeners;
     private PropertyChangeSupport propertyListeners;
     private int state;
+    private String toolTipHelp;
     private ActionListener alignLeftAction;
     private ActionListener alignRightAction;
     private ActionListener alignTopAction;
@@ -457,6 +491,7 @@ public class MainPresenter {
     private ActionListener exitAction;
     private WindowListener mainWindowAction;
     private MouseAdapter panelMouse;
+    private MouseAdapter toolbarMouse;
     private MenuListener menuAction;
     private BufferedWriter log;
     private SimpleDateFormat dateFormat;

@@ -5,8 +5,6 @@ import control.presenter.MainPresenter;
 import java.awt.*;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import javax.swing.*;
@@ -504,19 +502,7 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
                 new BorderLayout());
         MainToolbar toolbar = new MainToolbar(presenter, Settings.MainToolbarName,
                 MainToolbar.HORIZONTAL);
-        toolbar.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                toolTipPane.setVisible(true);
-            }
 
-            @Override
-            public void mouseExited(MouseEvent e) {
-                if(!toolbar.contains(e.getPoint())) {
-                    toolTipPane.setVisible(false);
-                }
-            }
-        });
         getContentPane().add(toolbar, BorderLayout.PAGE_START);
         mainPanel = new MainPanel(presenter);
         getContentPane().add(mainPanel, BorderLayout.CENTER);
@@ -563,6 +549,10 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
                     setTitle(Settings.ApplicationName + " - PAUSED");
                     break;
             }
+        }
+        else if (evt.getPropertyName().equals("toolTipHelp")) {
+            toolTipPane.setTipText((String)evt.getNewValue());
+            toolTipPane.setVisible((String)evt.getNewValue() != null);
         }
     }
 
