@@ -332,14 +332,28 @@ public class MainPresenter {
                 @Override
                 public void mouseEntered(MouseEvent e) {
                     String tip = ((JComponent)e.getSource()).getToolTipText();
-                    setToolTipHelp(tip);
-                    log("show " + tip);
+                    if (researchOption == Settings.ResearchOptions.Control)
+                    {
+                        log("mouse enter " + tip);
+                    }
+                    else if (researchOption == Settings.ResearchOptions.Experimental)
+                    {
+                        setToolTipHelp(tip);
+                        log("show " + tip);
+                    }
                 }
 
                 @Override
                 public void mouseExited(MouseEvent e) {
-                    log("hide " + getToolTipHelp());
-                    setToolTipHelp(null);
+                    if (researchOption == Settings.ResearchOptions.Control)
+                    {
+                        log("mouse exit");
+                    }
+                    else if (researchOption == Settings.ResearchOptions.Experimental)
+                    {
+                        log("hide " + getToolTipHelp());
+                        setToolTipHelp(null);
+                    }
                 }
             };
         }
