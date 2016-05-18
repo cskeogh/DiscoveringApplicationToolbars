@@ -521,7 +521,7 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
         if (evt.getPropertyName().equals("state")) {
-            setTitle(Settings.ApplicationName);
+            setTitle(Settings.ApplicationName + " B");
             switch ((Integer) evt.getNewValue()) {
                 case MainPresenter.ST_NOTHING:
                     getGlassPane().setVisible(false);
@@ -548,7 +548,7 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
                     presenter.cancel();
                     break;
                 case MainPresenter.ST_PAUSE:
-                    setTitle(Settings.ApplicationName + " - PAUSED");
+                    setTitle(Settings.ApplicationName + " B - PAUSED");
                     break;
             }
         }

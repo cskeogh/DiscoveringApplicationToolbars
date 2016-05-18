@@ -27,7 +27,7 @@ public class Main {
                 }
                 MainFrame mainFrame = new MainFrame(
                         new MainPresenter(Settings.ResearchOptions.Experimental),
-                        Settings.ApplicationName);
+                        Settings.ApplicationName + " B");
                 mainFrame.setVisible(true);
             }
         });

@@ -1,11 +1,11 @@
 package common.view;
 
+import common.presenter.Loader;
 import common.presenter.MainPresenter;
 import java.awt.*;
 import java.awt.event.ComponentEvent;
 import java.awt.event.ComponentListener;
 import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -16,7 +16,7 @@ import javax.swing.*;
 public class MainGlassPane extends JPanel implements ComponentListener {
     static {
         try {
-            BufferedImage image = ImageIO.read(new File("res/pause.png"));
+            BufferedImage image = ImageIO.read(Loader.res("res/pause.png"));
             pauseImage = new ImageIcon(image);
         } catch (IOException e) {
         }

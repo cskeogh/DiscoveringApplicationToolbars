@@ -1,8 +1,8 @@
 package common.view;
 
 import common.model.ModelObj;
+import common.presenter.Loader;
 import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -14,7 +14,7 @@ public class ElementComp extends JLabel implements ViewComp {
 
     static {
         try {
-            BufferedImage image = ImageIO.read(new File("res/elementcomp.png"));
+            BufferedImage image = ImageIO.read(Loader.res("res/elementcomp.png"));
             elementImage = new ImageIcon(image);
         } catch (IOException e) {
         }

@@ -522,7 +522,7 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
         if (evt.getPropertyName().equals("state")) {
-            setTitle(ApplicationName);
+            setTitle(ApplicationName + " A");
             switch ((Integer) evt.getNewValue()) {
                 case MainPresenter.ST_NOTHING:
                     getGlassPane().setVisible(false);
@@ -546,14 +546,14 @@ public class MainFrame extends JFrame implements PropertyChangeListener {
                     presenter.cancel();
                     break;
                 case MainPresenter.ST_PAUSE:
-                    setTitle(ApplicationName + " - PAUSED");
+                    setTitle(Settings.ApplicationName + " A - PAUSED");
                     break;
             }
         }
         else if (evt.getPropertyName().equals("error")) {
             JOptionPane.showMessageDialog(this,
                     (String)evt.getNewValue(),
-                    ApplicationName + " Error",
+                    Settings.ApplicationName + " Error",
                     JOptionPane.ERROR_MESSAGE);
         }
     }
