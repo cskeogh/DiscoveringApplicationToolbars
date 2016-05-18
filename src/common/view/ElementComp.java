@@ -1,4 +1,4 @@
-package control.view;
+package common.view;
 
 import common.model.ModelObj;
 import java.awt.image.BufferedImage;

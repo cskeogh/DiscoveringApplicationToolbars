@@ -1,4 +1,4 @@
-package exp.view;
+package common.view;
 
 import common.model.ModelObj;
 

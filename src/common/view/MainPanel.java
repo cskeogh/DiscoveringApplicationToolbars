@@ -1,4 +1,4 @@
-package control.view;
+package common.view;
 
 import common.Settings;
 import common.model.Boundary;

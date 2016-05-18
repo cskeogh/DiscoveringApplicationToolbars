@@ -2,6 +2,8 @@ package exp.view;
 
 import common.Settings;
 import common.presenter.MainPresenter;
+import common.view.MainGlassPane;
+import common.view.MainPanel;
 import java.awt.*;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
