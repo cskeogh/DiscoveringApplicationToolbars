@@ -54,7 +54,7 @@ public class MainPresenter {
                     int left = Integer.MAX_VALUE;
                     for (ModelObj obj : theModel)
                     {
-                        left = Integer.min(left, obj.getPoint().x);
+                        left = Math.min(left, obj.getPoint().x);
                     }
                     for (ModelObj obj : theModel) {
                         obj.setPoint(new Point(left, obj.getPoint().y));
