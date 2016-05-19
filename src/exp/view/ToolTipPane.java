@@ -22,20 +22,17 @@ public class ToolTipPane extends JPanel implements ComponentListener {
     {
         tip.setTipText(text);
     }
-    @Override
+
     public void componentResized(ComponentEvent e) {
         int w = getWidth();
-        int h = getHeight();
-        tip.setBounds(10, 0, w-20, 20);
+        int h = getGraphics().getFontMetrics().getHeight();
+        tip.setBounds(10, 0, w-20, h+5);
     }
 
-    @Override
     public void componentMoved(ComponentEvent e) {}
 
-    @Override
     public void componentShown(ComponentEvent e) {}
 
-    @Override
     public void componentHidden(ComponentEvent e) {}
 
     private JToolTip tip;
