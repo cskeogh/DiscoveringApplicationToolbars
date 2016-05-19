@@ -1,0 +1,17 @@
+age: 30-40
+occupation: parent
+education level: undergrad
+average hours using computer at work/study per day: 0.5hrs
+average hours using computer at home: 3hrs
+years on computers: 20
+
+observations:
+started with main menu first, then investigated toolbar
+"what is the diagram? I just see a blank page."
+Unfamilar with click to create "things" on diagram, expecting to create via left-click-and-drag, where the drag sets the thing's size.
+
+questions:
+4: application B's help looks like a web path or a file path. Don't like how the help obscures the main menu.
+5. Yes, how application B obscures the main menu.
+6: no
+7: no

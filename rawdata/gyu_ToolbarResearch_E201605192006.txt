@@ -1,0 +1,155 @@
+2016-05-19 20:06:57.383, start
+2016-05-19 20:07:09.522, show Add Element
+2016-05-19 20:07:09.551, hide Add Element
+2016-05-19 20:07:09.552, show Add Note
+2016-05-19 20:07:09.564, hide Add Note
+2016-05-19 20:07:09.564, show Align Top
+2016-05-19 20:07:09.573, hide Align Top
+2016-05-19 20:07:10.279, menuDiagram opened
+2016-05-19 20:07:11.812, show Align Left
+2016-05-19 20:07:11.841, hide Align Left
+2016-05-19 20:07:22.743, menuDiagram closed
+2016-05-19 20:07:25.399, show Align Bottom
+2016-05-19 20:07:25.405, hide Align Bottom
+2016-05-19 20:07:33.289, show Add Line
+2016-05-19 20:07:33.306, hide Add Line
+2016-05-19 20:07:34.147, show Add Link
+2016-05-19 20:07:34.162, hide Add Link
+2016-05-19 20:07:34.164, show Add Image
+2016-05-19 20:07:34.187, hide Add Image
+2016-05-19 20:07:34.188, show Add Element
+2016-05-19 20:07:34.212, hide Add Element
+2016-05-19 20:07:34.212, show Add Boundary
+2016-05-19 20:07:34.220, hide Add Boundary
+2016-05-19 20:07:34.569, show Add Boundary
+2016-05-19 20:07:35.414, hide Add Boundary
+2016-05-19 20:07:35.416, show Add Relationship
+2016-05-19 20:07:35.477, hide Add Relationship
+2016-05-19 20:07:35.478, show Add Line
+2016-05-19 20:07:35.805, hide Add Line
+2016-05-19 20:07:35.806, show Add Relationship
+2016-05-19 20:07:35.895, hide Add Relationship
+2016-05-19 20:07:35.896, show Add Boundary
+2016-05-19 20:07:36.085, hide Add Boundary
+2016-05-19 20:07:37.200, show Add Line
+2016-05-19 20:07:37.630, line button
+2016-05-19 20:07:37.752, hide Add Line
+2016-05-19 20:07:37.753, show Add Relationship
+2016-05-19 20:07:37.762, hide Add Relationship
+2016-05-19 20:07:42.647, show Add Relationship
+2016-05-19 20:07:43.407, hide Add Relationship
+2016-05-19 20:07:45.232, menuElement opened
+2016-05-19 20:08:00.201, menuElement closed
+2016-05-19 20:08:01.816, show Add Boundary
+2016-05-19 20:08:01.826, hide Add Boundary
+2016-05-19 20:08:01.827, show Add Relationship
+2016-05-19 20:08:01.844, hide Add Relationship
+2016-05-19 20:08:01.845, show Add Line
+2016-05-19 20:08:01.855, hide Add Line
+2016-05-19 20:08:02.223, show Add Boundary
+2016-05-19 20:08:02.384, hide Add Boundary
+2016-05-19 20:08:02.386, show Add Element
+2016-05-19 20:08:02.753, hide Add Element
+2016-05-19 20:08:02.754, show Add Boundary
+2016-05-19 20:08:03.366, hide Add Boundary
+2016-05-19 20:08:03.367, show Add Relationship
+2016-05-19 20:08:03.933, hide Add Relationship
+2016-05-19 20:08:03.934, show Add Line
+2016-05-19 20:08:04.511, hide Add Line
+2016-05-19 20:08:04.512, show Add Relationship
+2016-05-19 20:08:04.968, hide Add Relationship
+2016-05-19 20:08:04.970, show Add Boundary
+2016-05-19 20:08:05.346, hide Add Boundary
+2016-05-19 20:08:05.348, show Add Element
+2016-05-19 20:08:05.464, hide Add Element
+2016-05-19 20:08:05.464, show Add Image
+2016-05-19 20:08:05.966, hide Add Image
+2016-05-19 20:08:05.968, show Add Link
+2016-05-19 20:08:06.073, hide Add Link
+2016-05-19 20:08:06.074, show Add Note
+2016-05-19 20:08:06.476, hide Add Note
+2016-05-19 20:08:06.477, show Add Link
+2016-05-19 20:08:06.522, hide Add Link
+2016-05-19 20:08:06.523, show Add Image
+2016-05-19 20:08:06.549, hide Add Image
+2016-05-19 20:08:06.551, show Add Element
+2016-05-19 20:08:06.579, hide Add Element
+2016-05-19 20:08:06.580, show Add Boundary
+2016-05-19 20:08:06.631, hide Add Boundary
+2016-05-19 20:08:06.632, show Add Relationship
+2016-05-19 20:08:06.722, hide Add Relationship
+2016-05-19 20:08:06.723, show Add Line
+2016-05-19 20:08:07.552, hide Add Line
+2016-05-19 20:08:07.554, show Add Relationship
+2016-05-19 20:08:07.585, hide Add Relationship
+2016-05-19 20:08:07.585, show Add Boundary
+2016-05-19 20:08:08.070, hide Add Boundary
+2016-05-19 20:08:08.071, show Add Relationship
+2016-05-19 20:08:08.523, hide Add Relationship
+2016-05-19 20:08:08.525, show Add Boundary
+2016-05-19 20:08:08.595, hide Add Boundary
+2016-05-19 20:08:08.596, show Add Element
+2016-05-19 20:08:09.726, element button
+2016-05-19 20:08:10.288, hide Add Element
+2016-05-19 20:08:16.398, show Add Image
+2016-05-19 20:08:16.412, hide Add Image
+2016-05-19 20:08:20.036, show Add Image
+2016-05-19 20:08:20.062, hide Add Image
+2016-05-19 20:08:20.063, show Add Link
+2016-05-19 20:08:20.133, hide Add Link
+2016-05-19 20:08:20.134, show Add Note
+2016-05-19 20:08:21.130, note button
+2016-05-19 20:08:24.164, hide Add Note
+2016-05-19 20:08:26.703, note added
+2016-05-19 20:08:30.441, show Add Relationship
+2016-05-19 20:08:30.496, hide Add Relationship
+2016-05-19 20:08:30.497, show Add Boundary
+2016-05-19 20:08:31.255, hide Add Boundary
+2016-05-19 20:08:31.257, show Add Relationship
+2016-05-19 20:08:31.751, hide Add Relationship
+2016-05-19 20:08:31.752, show Add Line
+2016-05-19 20:08:32.087, hide Add Line
+2016-05-19 20:08:32.088, show Add Relationship
+2016-05-19 20:08:32.114, hide Add Relationship
+2016-05-19 20:08:32.115, show Add Boundary
+2016-05-19 20:08:32.137, hide Add Boundary
+2016-05-19 20:08:32.138, show Add Element
+2016-05-19 20:08:32.170, hide Add Element
+2016-05-19 20:08:32.170, show Add Image
+2016-05-19 20:08:32.590, hide Add Image
+2016-05-19 20:08:32.591, show Add Element
+2016-05-19 20:08:33.160, element button
+2016-05-19 20:08:33.380, hide Add Element
+2016-05-19 20:08:33.750, element added
+2016-05-19 20:08:37.915, show Add Image
+2016-05-19 20:08:38.582, hide Add Image
+2016-05-19 20:08:38.584, show Add Element
+2016-05-19 20:08:38.677, hide Add Element
+2016-05-19 20:08:38.678, show Add Boundary
+2016-05-19 20:08:39.382, boundary button
+2016-05-19 20:08:39.646, hide Add Boundary
+2016-05-19 20:08:39.647, show Add Element
+2016-05-19 20:08:39.664, hide Add Element
+2016-05-19 20:08:40.047, boundary added
+2016-05-19 20:08:43.368, show Add Relationship
+2016-05-19 20:08:43.539, hide Add Relationship
+2016-05-19 20:08:43.541, show Add Line
+2016-05-19 20:08:43.866, hide Add Line
+2016-05-19 20:08:44.652, show Add Element
+2016-05-19 20:08:44.667, hide Add Element
+2016-05-19 20:08:44.667, show Add Image
+2016-05-19 20:08:44.705, hide Add Image
+2016-05-19 20:08:44.705, show Add Link
+2016-05-19 20:08:44.766, hide Add Link
+2016-05-19 20:08:44.767, show Add Note
+2016-05-19 20:08:44.852, hide Add Note
+2016-05-19 20:08:44.854, show Align Top
+2016-05-19 20:08:45.786, hide Align Top
+2016-05-19 20:08:45.787, show Align Left
+2016-05-19 20:08:46.446, align left button
+2016-05-19 20:08:51.112, hide Align Left
+2016-05-19 20:08:51.114, show Align Right
+2016-05-19 20:08:51.137, hide Align Right
+2016-05-19 20:08:51.138, show Align Bottom
+2016-05-19 20:08:51.154, hide Align Bottom
+2016-05-19 20:08:54.949, exit

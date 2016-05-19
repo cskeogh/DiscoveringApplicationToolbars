@@ -1,0 +1,16 @@
+age: 20-30
+occupation: student
+education level: undergrad
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 1hrs
+years on computers: all
+
+observations:
+started with main menu first, then investigated toolbar
+
+questions:
+4: not asked due to survey response
+5: application A takes a little longer (to display help), but only minor. I prefer application A because it is more familiar.
+6: no. I noticed application B takes up the whole space (screen width)
+7: no
+
