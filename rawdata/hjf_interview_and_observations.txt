@@ -1,3 +1,4 @@
+Application A
 age: 20-30
 occupation: student
 education level: undergrad
@@ -9,6 +10,9 @@ observations:
 started with main menu first, then investigated toolbar
 
 questions:
+1: marginal A
+2: no difference
+3: no difference
 4: not asked due to survey response
 5: application A takes a little longer (to display help), but only minor. I prefer application A because it is more familiar.
 6: no. I noticed application B takes up the whole space (screen width)

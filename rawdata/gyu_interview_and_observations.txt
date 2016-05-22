@@ -1,3 +1,4 @@
+Application B
 age: 30-40
 occupation: parent
 education level: undergrad
@@ -11,6 +12,9 @@ started with main menu first, then investigated toolbar
 Unfamilar with click to create "things" on diagram, expecting to create via left-click-and-drag, where the drag sets the thing's size.
 
 questions:
+1: strongly a
+2: strongly a
+3: strongly a
 4: application B's help looks like a web path or a file path. Don't like how the help obscures the main menu.
 5. Yes, how application B obscures the main menu.
 6: no
