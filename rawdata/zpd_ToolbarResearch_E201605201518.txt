@@ -1,0 +1,63 @@
+2016-05-20 15:18:09.708, start
+2016-05-20 15:18:13.452, show Align Bottom
+2016-05-20 15:18:13.467, hide Align Bottom
+2016-05-20 15:18:13.779, show Add Element
+2016-05-20 15:18:13.998, hide Add Element
+2016-05-20 15:18:13.998, show Add Boundary
+2016-05-20 15:18:14.325, hide Add Boundary
+2016-05-20 15:18:14.325, show Add Element
+2016-05-20 15:18:14.590, hide Add Element
+2016-05-20 15:18:14.590, show Add Boundary
+2016-05-20 15:18:15.324, hide Add Boundary
+2016-05-20 15:18:15.324, show Add Element
+2016-05-20 15:18:15.776, element button
+2016-05-20 15:18:15.901, hide Add Element
+2016-05-20 15:18:16.306, element added
+2016-05-20 15:18:21.548, show Add Boundary
+2016-05-20 15:18:22.078, hide Add Boundary
+2016-05-20 15:18:22.078, show Add Element
+2016-05-20 15:18:22.437, hide Add Element
+2016-05-20 15:18:22.437, show Add Image
+2016-05-20 15:18:22.624, hide Add Image
+2016-05-20 15:18:22.624, show Add Link
+2016-05-20 15:18:23.061, hide Add Link
+2016-05-20 15:18:23.061, show Add Note
+2016-05-20 15:18:23.810, note button
+2016-05-20 15:18:23.919, hide Add Note
+2016-05-20 15:18:23.919, show Align Top
+2016-05-20 15:18:23.935, hide Align Top
+2016-05-20 15:18:24.262, note added
+2016-05-20 15:18:28.942, show Align Top
+2016-05-20 15:18:28.974, hide Align Top
+2016-05-20 15:18:29.083, show Add Link
+2016-05-20 15:18:29.176, hide Add Link
+2016-05-20 15:18:29.176, show Add Note
+2016-05-20 15:18:29.208, hide Add Note
+2016-05-20 15:18:29.208, show Align Top
+2016-05-20 15:18:29.254, hide Align Top
+2016-05-20 15:18:30.190, menuElement opened
+2016-05-20 15:18:31.532, menuElement closed
+2016-05-20 15:18:31.532, menuDiagram opened
+2016-05-20 15:18:33.092, menuDiagram closed
+2016-05-20 15:18:33.092, menuPackage opened
+2016-05-20 15:18:33.622, menuPackage closed
+2016-05-20 15:18:33.622, menuProject opened
+2016-05-20 15:18:34.527, menuProject closed
+2016-05-20 15:18:34.527, menuView opened
+2016-05-20 15:18:35.666, menuView closed
+2016-05-20 15:18:35.931, show Add Element
+2016-05-20 15:18:35.994, hide Add Element
+2016-05-20 15:18:36.118, show Add Element
+2016-05-20 15:18:36.165, hide Add Element
+2016-05-20 15:18:36.165, show Add Boundary
+2016-05-20 15:18:36.540, boundary button
+2016-05-20 15:18:36.633, hide Add Boundary
+2016-05-20 15:18:37.616, boundary added
+2016-05-20 15:18:47.553, show Add Link
+2016-05-20 15:18:47.569, hide Add Link
+2016-05-20 15:18:47.678, show Add Note
+2016-05-20 15:18:47.709, hide Add Note
+2016-05-20 15:18:47.990, show Align Left
+2016-05-20 15:18:48.333, align left button
+2016-05-20 15:18:48.427, hide Align Left
+2016-05-20 15:18:55.603, exit

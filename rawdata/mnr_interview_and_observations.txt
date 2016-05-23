@@ -1,0 +1,24 @@
+Application A
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 2hrs
+years on computers: 25
+
+observations:
+
+questions:
+1: Marginal B
+2: Strongly B (although this may because I already did A and knew where the tabs were)
+3: Strongly B (but again, perhaps bias from having done A first)
+4: The tab names popped up easier in B than A and were faster to appear,
+whereas in A you have to mouse in the lower right to get the explanation of what the tab
+is in B anyhwere on the tile pulls up the info
+5: slightly annoying that the boundaries, elements etc that you create are all of a
+predetermined size rather than able to be created freehand with mouse, but that's
+probably not the purpose of the task. Likewise I couldn't get any of the other menu
+options to do anything
+6: the text in the toolbar info could be centered over the tile it is describing instead
+of all being on the far left, and perhaps the text box could be closer to the size of the
+text instead of covering the whole length of the menu area (more like how the drop down
+list appears with all the other headings, but with the ease of program B instead of having
+to find a corner in A
+7: none come to mind, but i don't pay a lot of attention to toolbars most times

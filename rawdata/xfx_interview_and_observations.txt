@@ -1,0 +1,18 @@
+Application B
+average hours using computer at work/study per day: 2hrs
+average hours using computer at home: 1hrs
+years on computers: 25
+
+observations:
+expected something to happen after hitting pause
+tried menus first
+tried to drag
+
+questions:
+1: strongly B
+2: strongly B
+3: strongly B
+4: application B pops up quicker, rather than application A's 1 second delay
+5: A is slower.
+6: Application B text whould be in a smaller box, similar to application A's size
+7: no

@@ -1,0 +1,136 @@
+2016-05-20 15:35:44.054, start
+2016-05-20 15:35:47.564, mouse enter Add Note
+2016-05-20 15:35:48.578, show Add Note
+2016-05-20 15:35:48.703, hide Add Note
+2016-05-20 15:35:48.828, note button
+2016-05-20 15:35:49.015, mouse exit
+2016-05-20 15:35:52.182, mouse enter Add Link
+2016-05-20 15:35:52.291, mouse exit
+2016-05-20 15:35:52.291, mouse enter Add Image
+2016-05-20 15:35:52.494, mouse exit
+2016-05-20 15:35:52.494, mouse enter Add Link
+2016-05-20 15:35:52.853, link button
+2016-05-20 15:35:52.946, mouse exit
+2016-05-20 15:35:54.085, mouse enter Add Element
+2016-05-20 15:35:54.147, mouse exit
+2016-05-20 15:35:54.147, mouse enter Add Boundary
+2016-05-20 15:35:54.756, boundary button
+2016-05-20 15:35:54.881, mouse exit
+2016-05-20 15:35:56.191, mouse enter Add Relationship
+2016-05-20 15:35:56.503, relationship button
+2016-05-20 15:35:56.909, mouse exit
+2016-05-20 15:35:58.547, mouse enter Add Element
+2016-05-20 15:35:58.671, mouse exit
+2016-05-20 15:35:59.623, mouse enter Add Boundary
+2016-05-20 15:35:59.732, mouse exit
+2016-05-20 15:35:59.732, mouse enter Add Relationship
+2016-05-20 15:35:59.810, mouse exit
+2016-05-20 15:35:59.810, mouse enter Add Line
+2016-05-20 15:36:00.122, line button
+2016-05-20 15:36:00.216, mouse exit
+2016-05-20 15:36:04.974, mouse enter Add Relationship
+2016-05-20 15:36:05.223, mouse exit
+2016-05-20 15:36:05.223, mouse enter Add Line
+2016-05-20 15:36:05.504, line button
+2016-05-20 15:36:06.144, mouse exit
+2016-05-20 15:36:08.546, mouse enter Add Relationship
+2016-05-20 15:36:09.357, relationship button
+2016-05-20 15:36:09.498, mouse exit
+2016-05-20 15:36:11.042, mouse enter Add Element
+2016-05-20 15:36:11.089, mouse exit
+2016-05-20 15:36:11.089, mouse enter Add Boundary
+2016-05-20 15:36:11.432, boundary button
+2016-05-20 15:36:11.604, mouse exit
+2016-05-20 15:36:12.228, boundary added
+2016-05-20 15:36:14.022, mouse enter Add Boundary
+2016-05-20 15:36:14.459, mouse exit
+2016-05-20 15:36:14.459, mouse enter Add Element
+2016-05-20 15:36:15.051, element button
+2016-05-20 15:36:15.410, mouse exit
+2016-05-20 15:36:15.410, mouse enter Add Image
+2016-05-20 15:36:15.675, mouse exit
+2016-05-20 15:36:17.594, element added
+2016-05-20 15:36:32.789, mouse enter Add Image
+2016-05-20 15:36:32.820, mouse exit
+2016-05-20 15:36:32.820, mouse enter Add Element
+2016-05-20 15:36:33.834, show Add Element
+2016-05-20 15:36:34.224, hide Add Element
+2016-05-20 15:36:34.224, mouse exit
+2016-05-20 15:36:34.224, mouse enter Add Boundary
+2016-05-20 15:36:34.302, mouse exit
+2016-05-20 15:36:34.754, mouse enter Add Boundary
+2016-05-20 15:36:35.051, mouse exit
+2016-05-20 15:36:35.051, mouse enter Add Element
+2016-05-20 15:36:36.065, show Add Element
+2016-05-20 15:36:42.461, hide Add Element
+2016-05-20 15:36:42.461, mouse exit
+2016-05-20 15:36:42.632, mouse enter Add Element
+2016-05-20 15:36:43.646, show Add Element
+2016-05-20 15:36:49.091, hide Add Element
+2016-05-20 15:36:49.091, mouse exit
+2016-05-20 15:36:49.091, mouse enter Add Image
+2016-05-20 15:36:50.105, show Add Image
+2016-05-20 15:36:53.287, hide Add Image
+2016-05-20 15:36:53.287, mouse exit
+2016-05-20 15:36:53.287, mouse enter Add Link
+2016-05-20 15:36:54.176, mouse exit
+2016-05-20 15:36:54.176, mouse enter Add Note
+2016-05-20 15:36:55.190, show Add Note
+2016-05-20 15:36:56.079, hide Add Note
+2016-05-20 15:36:57.109, note button
+2016-05-20 15:36:57.359, mouse exit
+2016-05-20 15:37:03.271, note added
+2016-05-20 15:37:14.581, mouse enter Add Note
+2016-05-20 15:37:15.018, mouse exit
+2016-05-20 15:37:15.018, mouse enter Align Top
+2016-05-20 15:37:15.158, mouse exit
+2016-05-20 15:37:15.158, mouse enter Align Left
+2016-05-20 15:37:15.299, mouse exit
+2016-05-20 15:37:15.299, mouse enter Align Right
+2016-05-20 15:37:15.533, mouse exit
+2016-05-20 15:37:15.533, mouse enter Align Bottom
+2016-05-20 15:37:15.798, mouse exit
+2016-05-20 15:37:15.798, mouse enter Align Right
+2016-05-20 15:37:15.845, mouse exit
+2016-05-20 15:37:15.845, mouse enter Align Left
+2016-05-20 15:37:15.876, mouse exit
+2016-05-20 15:37:15.876, mouse enter Align Top
+2016-05-20 15:37:15.907, mouse exit
+2016-05-20 15:37:15.907, mouse enter Add Note
+2016-05-20 15:37:15.954, mouse exit
+2016-05-20 15:37:15.954, mouse enter Add Link
+2016-05-20 15:37:16.016, mouse exit
+2016-05-20 15:37:16.016, mouse enter Add Image
+2016-05-20 15:37:16.079, mouse exit
+2016-05-20 15:37:16.079, mouse enter Add Element
+2016-05-20 15:37:16.172, mouse exit
+2016-05-20 15:37:16.172, mouse enter Add Boundary
+2016-05-20 15:37:16.281, mouse exit
+2016-05-20 15:37:16.281, mouse enter Add Relationship
+2016-05-20 15:37:16.593, mouse exit
+2016-05-20 15:37:16.593, mouse enter Add Line
+2016-05-20 15:37:16.937, mouse exit
+2016-05-20 15:37:16.937, mouse enter Add Relationship
+2016-05-20 15:37:16.983, mouse exit
+2016-05-20 15:37:16.983, mouse enter Add Boundary
+2016-05-20 15:37:17.997, show Add Boundary
+2016-05-20 15:37:19.323, hide Add Boundary
+2016-05-20 15:37:19.323, mouse exit
+2016-05-20 15:37:28.449, mouse enter Add Image
+2016-05-20 15:37:28.496, mouse exit
+2016-05-20 15:37:28.496, mouse enter Add Link
+2016-05-20 15:37:28.699, mouse exit
+2016-05-20 15:37:28.699, mouse enter Add Note
+2016-05-20 15:37:28.933, mouse exit
+2016-05-20 15:37:28.933, mouse enter Align Top
+2016-05-20 15:37:29.089, mouse exit
+2016-05-20 15:37:29.089, mouse enter Align Left
+2016-05-20 15:37:30.103, show Align Left
+2016-05-20 15:37:30.665, hide Align Left
+2016-05-20 15:37:30.789, align left button
+2016-05-20 15:37:37.435, mouse exit
+2016-05-20 15:37:37.435, mouse enter Align Right
+2016-05-20 15:37:37.451, mouse exit
+2016-05-20 15:37:37.451, mouse enter Align Bottom
+2016-05-20 15:37:37.466, mouse exit
+2016-05-20 15:37:44.845, exit

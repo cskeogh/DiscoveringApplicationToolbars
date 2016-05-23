@@ -1,0 +1,18 @@
+Application B
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 4hrs
+years on computers: 25
+
+observations:
+
+questions:
+1: strongly A
+2: marginal B
+3: marginal A
+4: 3 second tooltip delay compared to no delay
+5: application B: tooltip appears in an area I didn't expect. Covers the main menu.
+Application A is more standard. One toolbar button is slightly bigger.
+6: Drop the delay by 50%. No more than 2 seconds (between 1-2 seconds).
+Instant tooltips is an option, a small delay is better.
+7: display text as well as the icon. Have icons that are more meaningful representation
+ of the function. Add a small plus to corner of icon that provides extra information.

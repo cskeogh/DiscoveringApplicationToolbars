@@ -1,0 +1,22 @@
+Application A
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 3hrs
+years on computers: 25
+
+observations:
+- didn't know about tooltip help for the start
+- tried to drag to create objects
+- tries buttons before knowing what they do
+
+questions:
+1: strongly B
+2: strongly B
+3: strongly B
+4: Application A, because of the long delay suggested the was no tooltip. Application B is
+more responsive. Allows searching for desired function a lot quicker.
+5. Application B: Annoying that is hides menu. hiding the menu limits an experienced user who knows
+the menu well - it will slow decision making. The tooltip should have its own location.
+Tooltip has poor placement.
+Application A: The tooltip delay is an issue.
+6. Include a link to full help page.
+7. Help displayed down the bottom of the application.

@@ -1,0 +1,24 @@
+Application A
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 1hrs
+years on computers: 25
+
+observations:
+- didn't know about tooltip help for the start
+- tried to drag to create objects
+- tries buttons before knowing what they do
+
+questions:
+1: marginal B
+2: marginal B
+3: marginal B
+4: faster to display help. takes a while to hover.
+5: normally select items to align
+can't see the file menu. I like to see everything.
+6. include the same icon in the tooltip help.
+In Application B, there is a problem when you are near the boundary, you don't know what
+button the mouse is on, and subsequently don't know which the help is for.
+7. I don't use help, I get familar with the icon pictures.
+- I like to customise, and group icons to my preference and my workflow, and separate with
+ a space.
+- text under the icons.

@@ -1,0 +1,104 @@
+2016-05-22 14:27:48.245, start
+2016-05-22 14:28:00.133, menuElement opened
+2016-05-22 14:28:02.878, menuElement closed
+2016-05-22 14:28:02.878, menuAnalyser opened
+2016-05-22 14:28:03.502, menuAnalyser closed
+2016-05-22 14:28:03.502, menuTools opened
+2016-05-22 14:28:03.565, menuTools closed
+2016-05-22 14:28:03.565, menuElement opened
+2016-05-22 14:28:07.028, menuElement closed
+2016-05-22 14:28:10.351, show Align Bottom
+2016-05-22 14:28:10.444, hide Align Bottom
+2016-05-22 14:28:12.223, menuElement opened
+2016-05-22 14:28:21.505, menuElement closed
+2016-05-22 14:28:27.760, show Align Bottom
+2016-05-22 14:28:27.901, hide Align Bottom
+2016-05-22 14:28:29.554, menuDiagram opened
+2016-05-22 14:28:30.100, menuDiagram closed
+2016-05-22 14:28:30.100, menuElement opened
+2016-05-22 14:28:30.428, menuElement closed
+2016-05-22 14:28:30.428, menuDiagram opened
+2016-05-22 14:28:31.348, menuDiagram closed
+2016-05-22 14:28:31.348, menuElement opened
+2016-05-22 14:28:35.529, menuElement closed
+2016-05-22 14:28:37.370, show Align Bottom
+2016-05-22 14:28:38.930, hide Align Bottom
+2016-05-22 14:28:38.945, show Align Right
+2016-05-22 14:28:39.663, hide Align Right
+2016-05-22 14:28:39.663, show Align Left
+2016-05-22 14:28:40.069, hide Align Left
+2016-05-22 14:28:40.069, show Align Top
+2016-05-22 14:28:40.459, hide Align Top
+2016-05-22 14:28:40.474, show Add Note
+2016-05-22 14:28:40.739, hide Add Note
+2016-05-22 14:28:40.739, show Add Link
+2016-05-22 14:28:41.301, hide Add Link
+2016-05-22 14:28:41.301, show Add Image
+2016-05-22 14:28:41.660, hide Add Image
+2016-05-22 14:28:41.660, show Add Element
+2016-05-22 14:28:42.768, element button
+2016-05-22 14:28:43.954, hide Add Element
+2016-05-22 14:28:52.877, show Add Element
+2016-05-22 14:28:52.877, hide Add Element
+2016-05-22 14:28:52.893, show Add Boundary
+2016-05-22 14:28:52.893, hide Add Boundary
+2016-05-22 14:28:53.174, show Add Element
+2016-05-22 14:28:53.798, element button
+2016-05-22 14:28:54.047, hide Add Element
+2016-05-22 14:28:54.047, show Add Image
+2016-05-22 14:28:54.188, hide Add Image
+2016-05-22 14:28:54.812, element added
+2016-05-22 14:28:59.164, show Add Image
+2016-05-22 14:28:59.710, hide Add Image
+2016-05-22 14:28:59.710, show Add Element
+2016-05-22 14:29:00.069, hide Add Element
+2016-05-22 14:29:00.069, show Add Boundary
+2016-05-22 14:29:00.599, hide Add Boundary
+2016-05-22 14:29:00.599, show Add Element
+2016-05-22 14:29:00.927, hide Add Element
+2016-05-22 14:29:00.927, show Add Image
+2016-05-22 14:29:01.270, hide Add Image
+2016-05-22 14:29:01.270, show Add Link
+2016-05-22 14:29:02.112, hide Add Link
+2016-05-22 14:29:02.112, show Add Note
+2016-05-22 14:29:03.220, note button
+2016-05-22 14:29:03.438, hide Add Note
+2016-05-22 14:29:04.203, note added
+2016-05-22 14:29:06.683, show Align Bottom
+2016-05-22 14:29:06.761, hide Align Bottom
+2016-05-22 14:29:06.777, show Align Right
+2016-05-22 14:29:07.448, hide Align Right
+2016-05-22 14:29:07.448, show Align Bottom
+2016-05-22 14:29:08.165, hide Align Bottom
+2016-05-22 14:29:08.165, show Align Right
+2016-05-22 14:29:08.430, hide Align Right
+2016-05-22 14:29:08.430, show Align Left
+2016-05-22 14:29:08.680, hide Align Left
+2016-05-22 14:29:08.680, show Align Top
+2016-05-22 14:29:08.852, hide Align Top
+2016-05-22 14:29:08.852, show Add Note
+2016-05-22 14:29:09.210, hide Add Note
+2016-05-22 14:29:09.210, show Add Link
+2016-05-22 14:29:09.507, hide Add Link
+2016-05-22 14:29:09.507, show Add Image
+2016-05-22 14:29:09.772, hide Add Image
+2016-05-22 14:29:09.772, show Add Element
+2016-05-22 14:29:10.209, hide Add Element
+2016-05-22 14:29:10.209, show Add Boundary
+2016-05-22 14:29:11.051, boundary button
+2016-05-22 14:29:11.192, hide Add Boundary
+2016-05-22 14:29:11.722, boundary added
+2016-05-22 14:29:16.277, show Align Top
+2016-05-22 14:29:16.277, hide Align Top
+2016-05-22 14:29:16.277, show Align Left
+2016-05-22 14:29:16.386, hide Align Left
+2016-05-22 14:29:16.402, show Align Right
+2016-05-22 14:29:16.792, hide Align Right
+2016-05-22 14:29:16.792, show Align Bottom
+2016-05-22 14:29:17.260, hide Align Bottom
+2016-05-22 14:29:17.260, show Align Right
+2016-05-22 14:29:17.681, hide Align Right
+2016-05-22 14:29:17.681, show Align Left
+2016-05-22 14:29:18.524, align left button
+2016-05-22 14:29:19.272, hide Align Left
+2016-05-22 14:29:24.498, exit

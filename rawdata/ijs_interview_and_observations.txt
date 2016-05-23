@@ -1,0 +1,16 @@
+Application A
+average hours using computer at work/study per day: 5hrs
+average hours using computer at home: 3hrs
+years on computers: 20
+
+observations:
+A is like every other program, B is quicker.
+
+1: Strongly A
+2: marginal B
+3: no difference
+4: immediately hover, the popup box apears. Application A takes a second, so it is
+faster to learn B.
+5: B is just different. They way the popup comes up is odd.
+6: B. The text is squished, you don't see the full G. A little picky.
+7: no

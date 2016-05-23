@@ -1,0 +1,15 @@
+Application A
+average hours using computer at work/study per day: 0hrs
+average hours using computer at home: 8hrs
+years on computers: 10
+
+observations:
+
+questions:
+1: marginal A
+2: no difference
+3: no difference
+4: not asked because of Q2 answer
+5. too small icons
+6. no
+7. no

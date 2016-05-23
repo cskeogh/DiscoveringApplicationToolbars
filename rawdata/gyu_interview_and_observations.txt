@@ -1,7 +1,4 @@
 Application B
-age: 30-40
-occupation: parent
-education level: undergrad
 average hours using computer at work/study per day: 0.5hrs
 average hours using computer at home: 3hrs
 years on computers: 20

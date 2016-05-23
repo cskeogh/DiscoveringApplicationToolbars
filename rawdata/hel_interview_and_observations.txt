@@ -1,0 +1,28 @@
+Application A
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 1hrs
+years on computers: 25
+
+observations:
+tried menu first
+tried to drag
+double click to place item
+"I noticed there was no add in element menu, used to using the menu"
+
+questions:
+1: strongly B
+2: strongly B
+3: marginal B
+4: Application B popup appeared straight away. Didn't have to wait.
+5: no
+6: Application B is better than application A because of quick popups.
+Suggest green plus signs on the icons if an add operation, red negative if
+a delete operation.
+Expect an 'Add Element' in the menu, and plus the icon in the menu that matches
+the toolbar icon.
+I like the help up the top, but I can see it can be a hinderance to exper users.
+I noticed the help text hides the menu, but I'm used to that because the latest
+Microsoft Word does similar.
+7: Used a bad example where there is a popup menu that follows the mouse.
+I wished Word would be handly like application A.
+I used a program where help was in the status bar.

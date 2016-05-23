@@ -1,0 +1,18 @@
+Application B
+average hours using computer at work/study per day: 0hrs
+average hours using computer at home: 1hrs
+years on computers: 25
+
+observations:
+tried to drag
+
+questions:
+1: strongly B
+2: strongly B
+3: strongly B
+4: like application B instant popup because you can't remember all the buttons.
+ In application A, if you hover the wrong button, you have to wait 3-4 seconds.
+5: no
+6: If application A popup was faster, it may be better than application B. I like
+the position of help text in application; I like the speed of application B.
+7: no. Some have a status bar, but no-one looks down the bottom.

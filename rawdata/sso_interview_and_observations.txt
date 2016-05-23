@@ -1,0 +1,17 @@
+Application B
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 2hrs
+years on computers: 20
+
+observations:
+yellow background is good
+didn't see the pop-up help until the 2nd step.
+
+questions:
+1: strongly b
+2: strongly B
+3: no difference
+4: the writing is slightly bigger
+5. annoying not to find help in the expected location (below the button).
+6. no
+7. no
