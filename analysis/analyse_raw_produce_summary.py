@@ -99,6 +99,7 @@ def analyse():
     analyse_experimental(RAW_DATA_FOLDER + 'gyu_ToolbarResearch_E201605192006.txt', fo)
     analyse_control(RAW_DATA_FOLDER + 'hjf_ToolbarResearch_C201605191724.txt', fo)
     analyse_experimental(RAW_DATA_FOLDER + 'ijs_ToolbarResearch_E201605202058.txt', fo)
+    analyse_experimental(RAW_DATA_FOLDER + 'lso_ToolbarResearch_E201605242057.txt', fo)
     analyse_control(RAW_DATA_FOLDER + 'mnr_ToolbarResearch_C201605212227.txt', fo)
     analyse_control(RAW_DATA_FOLDER + 'pgm_ToolbarResearch_C201605211448.txt', fo)
     analyse_control(RAW_DATA_FOLDER + 'poe_ToolbarResearch_C201605201434.txt', fo)

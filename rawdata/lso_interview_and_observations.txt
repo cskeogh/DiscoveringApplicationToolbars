@@ -1,0 +1,22 @@
+Application B
+average hours using computer at work/study per day: 8hrs
+average hours using computer at home: 2hrs
+years on computers: 25
+
+observations:
+
+
+1: Strongly A
+2: Strongly B
+3: Strongly B
+4: It was faster to learn B due to the tooltips displaying quicker than in A. Meaning I could hover on each
+5: B may have been easier and faster to learn however it was the most annoying. The tooltips take up too much
+   real estate and cover the menu when they appear. With no delay on displaying the tooltips it becomes annoying
+   once one is more familiar with the toolbar and the application. The tooltips are always flashing up even when
+   the mouse passes over a button as you are going to the menu, for example.
+6: B. Tool bar help could be improved by having additional information along with the basic help (if applicable).
+   For example: Add note – Insert note to diagram by double clicking mouse inside workspace. Shortcut key
+   combinations could also be included, if applicable. Something else to consider is the toolbar doesn’t always
+   have to be at the top. Depending of the application it may be more beneficial to have the toolbar vertical on
+   the side of the application. In this instance you may not require a delay displaying the tooltip.
+7: A good example that seems to be the norm is in MS Paint (Windows 7 and above).

@@ -1,0 +1,27 @@
+2016-05-24 20:57:35.600, start
+2016-05-24 20:59:06.439, pause
+2016-05-24 20:59:07.859, show Add Element
+2016-05-24 20:59:08.031, hide Add Element
+2016-05-24 20:59:08.031, show Add Boundary
+2016-05-24 20:59:08.935, hide Add Boundary
+2016-05-24 20:59:08.935, show Add Element
+2016-05-24 20:59:10.183, element button
+2016-05-24 20:59:10.183, unpause
+2016-05-24 20:59:10.464, hide Add Element
+2016-05-24 20:59:10.901, element added
+2016-05-24 20:59:17.500, show Add Note
+2016-05-24 20:59:18.623, note button
+2016-05-24 20:59:18.935, hide Add Note
+2016-05-24 20:59:20.230, note added
+2016-05-24 20:59:22.320, show Add Boundary
+2016-05-24 20:59:23.958, boundary button
+2016-05-24 20:59:24.333, hide Add Boundary
+2016-05-24 20:59:25.331, boundary added
+2016-05-24 20:59:57.685, show Align Left
+2016-05-24 20:59:58.575, align left button
+2016-05-24 20:59:59.355, hide Align Left
+2016-05-24 21:00:00.930, show Add Relationship
+2016-05-24 21:00:01.039, hide Add Relationship
+2016-05-24 21:00:05.033, menuFile opened
+2016-05-24 21:00:09.339, menuFile closed
+2016-05-24 21:00:10.696, exit
